@@ -24,29 +24,29 @@ export const data = {
         marriage: {
             year: "2025",
             month: "April",
-            date: "14",
-            day: "Senin",
+            date: "13",
+            day: "Minggu",
             hours: {
-                start: "16.00",
+                start: "18.00",
                 finish: "Selesai"
             }
         },
         reception: {
             year: "2025",
             month: "April",
-            date: "14",
-            day: "Senin",
+            date: "13",
+            day: "Minggu",
             hours: {
-                start: "16.00",
+                start: "18.00",
                 finish: "Selesai"
             }
         },
-        address: "Jl. Rama No 9 Br. Pangkung Prabu, Desa Delod Peken, Tabanan"
+        address: "Jl. Pahlawan Gg. III No 7, Br. Sakenan Baleran, Tabanan"
     },
 
     link: {
         calendar: "https://calendar.app.google/mAV2YA3g5UmZpDG49",
-        map: "https://goo.gl/maps/oZtshFTvyscXW2vi8"
+        map: "https://maps.app.goo.gl/TbTH3sx4jBLm1rRBA"
     },
 
     galeri: [
